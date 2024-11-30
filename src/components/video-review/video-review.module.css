@@ -1,0 +1,48 @@
+.container_list {
+  position: relative;
+  display: flex;
+  gap: 10px;
+  .button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: #fff;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+
+    .video {
+      width: 100%;
+      height: 330px;
+      background: #d9d9d9;
+      margin-bottom: 30px;
+    }
+
+    h3 {
+      font-size: 27px;
+      font-weight: bold;
+      text-align: center;
+      margin-top: 10px;
+    }
+
+    .divider {
+      width: 100%;
+      height: 2px;
+      background-color: #333333;
+      margin: 10px 0 20px;
+    }
+
+    .contacts {
+      font-size: 18px;
+      font-weight: bold;
+      font-style: italic;
+    }
+  }
+}

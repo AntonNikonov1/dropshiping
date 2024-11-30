@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  margin-top: 225px;
+
+  .title {
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #1d1d1d;
+    border-radius: 20px;
+    padding: 20px;
+  }
+  .description {
+    color: #fff;
+    font-size: 20px;
+    line-height: 130%;
+    background-color: #1d1d1d;
+    border-radius: 20px;
+    padding: 25px 30px;
+    margin-top: 15px;
+  }
+}
