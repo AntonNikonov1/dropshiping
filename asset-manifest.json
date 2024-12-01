@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/dropshiping/static/css/main.4d25f840.css",
-    "main.js": "/dropshiping/static/js/main.05ad801b.js",
+    "main.js": "/dropshiping/static/js/main.c77fd0f5.js",
     "static/media/slick.svg": "/dropshiping/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/dropshiping/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/dropshiping/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/dropshiping/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/dropshiping/index.html",
     "main.4d25f840.css.map": "/dropshiping/static/css/main.4d25f840.css.map",
-    "main.05ad801b.js.map": "/dropshiping/static/js/main.05ad801b.js.map"
+    "main.c77fd0f5.js.map": "/dropshiping/static/js/main.c77fd0f5.js.map"
   },
   "entrypoints": [
     "static/css/main.4d25f840.css",
-    "static/js/main.05ad801b.js"
+    "static/js/main.c77fd0f5.js"
   ]
 }
